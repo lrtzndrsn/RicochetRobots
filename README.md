@@ -1,6 +1,6 @@
 
 ## About 
-This is an F sharp implementation of Ricochet Robots.
+This is an (object oriented) F#-implementation of the popular game Ricochet Robots.
 
 This work was conducted in 2021 together with my buddy Jonas Kramer (kram@itu.dk) and was one of our earliest larger coding projects.
 
